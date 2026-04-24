@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Dipesh Kumar 👋
 
-<!--
-**dev-dipeshkumar/dev-dipeshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech CSE Student | AI-Assisted Developer  
+💡 Building MVPs using AI + Automation + Rapid Prototyping  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+- Build web applications and MVPs using modern tools
+- Use AI-assisted development (Prompt Engineering)
+- Explore automation tools like n8n
+
+---
+
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript (Basics)
+- Firebase (Basics)
+- AI Tools (ChatGPT, n8n)
+
+---
+
+## 🚀 Projects
+- 🔗 AI Tool Hub – Platform for discovering powerful AI tools  
+- 🔗 MediRemind – Medication reminder system  
+- 🔗 ARISE – AI-based personal assistant  
+- 🔗 CampusForge – Student collaboration platform  
+- 🔗 InsightFlow – Data insights system  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/dipeshkumar-dev
+- Email: dipesh.kumar.devv@gmail.com
